@@ -1,2 +1,6 @@
 #this is create l1 txt file
+<<<<<<< HEAD
 this is feature 1
+=======
+this is feature2
+>>>>>>> t2
